@@ -226,7 +226,7 @@ body:before {
     -ms-transform: scale(1);
     transform: scale(1);
     background-attachment: scroll;
-    background-image: url('assets/images/bg.jpg?v=fffdc9dc');
+    background-image: url('assets/images/bg.jpg');
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
